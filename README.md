@@ -1,0 +1,2 @@
+# fate
+my first project
